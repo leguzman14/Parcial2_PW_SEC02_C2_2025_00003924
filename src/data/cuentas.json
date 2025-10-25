@@ -1,0 +1,74 @@
+[
+  {
+    "id": "A01",
+    "name": "Ana Perez",
+    "gender": "female",
+    "isActive": true,
+    "balance": 1250.75,
+    "email": "ana@uca.com"
+  },
+  {
+    "id": "B02",
+    "name": "Bruno Diaz",
+    "gender": "male",
+    "isActive": false,
+    "balance": 980.0,
+    "email": "bruno@uca.com"
+  },
+  {
+    "id": "C03",
+    "name": "Carla Gomez",
+    "gender": "female",
+    "isActive": true,
+    "balance": 543.4,
+    "email": "carla@uca.com"
+  },
+  {
+    "id": "D04",
+    "name": "Diego Lopez",
+    "gender": "male",
+    "isActive": true,
+    "balance": 2230.1,
+    "email": "diego@uca.com"
+  },
+  {
+    "id": "E05",
+    "name": "Elena Ruiz",
+    "gender": "female",
+    "isActive": false,
+    "balance": 50.0,
+    "email": "elena@uca.com"
+  },
+  {
+    "id": "F06",
+    "name": "Felix Mora",
+    "gender": "male",
+    "isActive": true,
+    "balance": 760.0,
+    "email": "felix@uca.com"
+  },
+  {
+    "id": "G07",
+    "name": "Greta Navas",
+    "gender": "female",
+    "isActive": true,
+    "balance": 150.0,
+    "email": "greta@uca.com"
+  },
+  {
+    "id": "H08",
+    "name": "Hector Soto",
+    "gender": "male",
+    "isActive": false,
+    "balance": 0,
+    "email": "hector@uca.com"
+  },
+    {
+    "id": "H10",
+    "name": "Amilcar Nose",
+    "gender": "Female",
+    "isActive": false,
+    "balance": 0,
+    "email": "hector@uca.com"
+  }
+]
